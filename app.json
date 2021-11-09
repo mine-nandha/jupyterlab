@@ -1,8 +1,8 @@
 {
-  "name": "Jupyter-Notebook-Server-Heroku",
-  "description": "A jupyter notebook server via HEROKU web without Password",
-  "logo": "https://raw.githubusercontent.com/developeranaz/Jupyter-Notebook-Server-Heroku/main/logo/Jupyter_logo.svg.png",
-  "keywords": ["jupyter", "notebook", "heroku", "web", "herokuweb", "jupyternotebook", "nopassword", "password-disabled", "no-password", "oneclickdeploy", "deploy-to-heroku", "docker"],
+  "name": "AriaNg-Jupyterlab",
+  "description": "aria2-webui-runing-in-jupyter",
+  "logo": "https://raw.githubusercontent.com/javsubs91/AriaNg/main/lab.png",
+  "keywords": ["jupyter", "jupyterlab", "heroku", "web", "herokuweb", "nopassword", "deploy-to-heroku", "docker"],
   "env": {
      "CONFIG_FILE_IN_URL": {
       "description": "Please Paste your rclone.conf file in URL.Use https://gist.github.com" ,
