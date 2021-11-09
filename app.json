@@ -1,6 +1,6 @@
 {
   "name": "AriaNg-Jupyterlab",
-  "description": "aria2-webui-runing-in-jupyter",
+  "description": "aria2-webui-running-in-jupyter",
   "logo": "https://raw.githubusercontent.com/javsubs91/AriaNg/main/lab.png",
   "keywords": ["jupyter", "jupyterlab", "heroku", "web", "herokuweb", "nopassword", "deploy-to-heroku", "docker"],
   "env": {
