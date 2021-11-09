@@ -8,7 +8,7 @@
 * handbrake included
 * rclone
 * mtn thumbnailer
-* Modified developeranaz/Jupyter-Notebook-Server-Heroku
+* Modified from developeranaz/Jupyter-Notebook-Server-Heroku
 
 
 
