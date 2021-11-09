@@ -40,8 +40,8 @@ RUN printf 1 | ./aria2.sh
 RUN printf 12 | ./aria2.sh
 COPY aria2.conf /root/.aria2c/aria2.conf
 
-RUN mkdir /JupyterNotebooks
-COPY JupyterNotebooks /JupyterNotebooks
+RUN mkdir /JupyterLab
+COPY JupyterLab /JupyterLab
 COPY jupyter.py /conf/jupyter.py
 COPY jupyter_notebook_config.json /root/.jupyter/jupyter_notebook_config.json
 
