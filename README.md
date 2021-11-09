@@ -9,12 +9,12 @@
 * rclone
 * mtn thumbnailer
 * Modified from developeranaz/Jupyter-Notebook-Server-Heroku
-
-
+---
+---
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/javsubs91/aria2-webui-runing-in-jupyter-server-heroku)
 
-
+---
 ## SCREENSHOTS
 ---
 <img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(367).png" height="480px" align="left"></a>
