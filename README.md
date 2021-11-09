@@ -3,7 +3,7 @@
 ## Features
 
 * Running in Ubuntu 18.04
-* Aria2 WebUI/AriaNg included
+* Aria2 Web-UI/AriaNg included
 * ffmpeg included
 * handbrake included
 * rclone
