@@ -18,10 +18,10 @@
 ---
 ## SCREENSHOTS
 ---
-<img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(367).png" height="480px" align="left"></a>
+<img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(367).png" height="240px" align="left"></a>
 
-<img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(362).png" height="480px" align="left"></a>
+<img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(362).png" height="240px" align="left"></a>
 
-<img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(366).png" height="480px" align="left"></a>
+<img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(366).png" height="240px" align="left"></a>
 
-<img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(365)_LI.jpg" height="480px" align="left"></a>
+<img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(365)_LI.jpg" height="240px" align="left"></a>
