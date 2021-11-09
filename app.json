@@ -1,0 +1,15 @@
+{
+  "name": "AriaNg-Jupyterlab",
+  "description": "aria2-webui-runing-in-jupyter",
+  "logo": "https://raw.githubusercontent.com/javsubs91/AriaNg/main/lab.png",
+  "keywords": ["jupyter", "jupyterlab", "heroku", "web", "herokuweb", "nopassword", "deploy-to-heroku", "docker"],
+  "env": {
+     "CONFIG_FILE_IN_URL": {
+      "description": "Please Paste your rclone.conf file in URL.Use https://gist.github.com" ,
+      "value": ""
+      }
+    },
+ 
+  "website": "",
+  "repository": "",
+  "stack": "container"
