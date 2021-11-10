@@ -33,7 +33,6 @@
 ## how to transfer?
 1. open **notepad** on your pc, 
 copy this code `rclone move /root/downloads/my-file.mp4 drivename:/folder destination  -P` to notepad
-
 2. in **notebook**, Right-click on the file you want to transfer, click `copy path` paste at `/root/downloads/my-file.mp4`
 3. replace `drivename:/folder destination` to your remote cloud drive name in rclone config, 
 or you can see it by clicking **remote.txt** in notebook
