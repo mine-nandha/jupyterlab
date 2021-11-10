@@ -31,14 +31,12 @@
 
 ---
 ## how to transfer?
-1. open **notepad**, copy this code `rclone move /root/downloads/my-file.mp4 drivename:/folder destination  -P`  
+1. open **notepad** on your pc, copy this code `rclone move /root/downloads/my-file.mp4 drivename:/folder destination  -P`  
 to notepad
-3. in **notebook**, Right-click on the file you want to transfer, click `copy path`
-4. paste `copy path` here `/root/downloads/my-file.mp4`
-5. open **Notebook Terminal** , `ctrl v` click enter
-
-**NOTE:** replace `drivename:/folder destination` with your remote cloud drive name in rclone config, 
+2. in **notebook**, Right-click on the file you want to transfer, click `copy path` paste at `/root/downloads/my-file.mp4`
+3. replace `drivename:/folder destination` to your remote cloud drive name in rclone config, 
 or you can see it by clicking **remote.txt** in notebook
+4. open **Notebook Terminal** , `ctrl v` click enter
 
 - TRANSFER EXAMPLE
 <img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(367).png" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(367).png" height="100px" />
