@@ -5,7 +5,7 @@
   "keywords": ["jupyter", "jupyterlab", "heroku", "web", "herokuweb", "nopassword", "AriaNg", "docker"],
   "env": {
      "CONFIG_FILE_IN_URL": {
-      "description": "Please Paste your rclone.conf file in URL.Use https://gist.github.com" ,
+      "description": "Please Paste your rclone.conf file url. Use https://gist.github.com" ,
       "value": ""
       }
     },
