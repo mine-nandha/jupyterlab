@@ -3,9 +3,9 @@
 ## Features
 
 * Running in Ubuntu 18.04
-* Aria2 Web-UI/AriaNg included
-* ffmpeg included
-* handbrake included
+* Aria2 Web-UI/AriaNg 
+* ffmpeg 
+* handbrake 
 * rclone
 * mtn thumbnailer
 ---
