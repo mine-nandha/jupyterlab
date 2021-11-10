@@ -53,8 +53,8 @@ NOTE: replace `drivename:/folder destination` with your remote cloud drive name 
 ---
 ## PREVIEW
 <img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(362).png" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(362).png" height="120px" align="left" ></a>
-<img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(368).png" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(368).png" height="120px" align="center" ></a>
-<img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(366).png" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(366).png" height="120px" align="left"></a>
+<img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(368).png" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(368).png" height="120px" align="left" ></a>
+<img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(366).png" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(366).png" height="120px" align="center"></a>
 <img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(365)_LI.jpg" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(365)_LI.jpg" height="120px" align="center"></a>
  
 ---
