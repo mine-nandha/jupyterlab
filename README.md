@@ -15,6 +15,14 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/javsubs91/aria2-webui-running-in-jupyterlab)
 
 ---
+## how to to start ariang?
+1. open folder name `/JupyterLab`
+2. double click `AriaNg-WEB-UI.ipynb`
+3. go to  [ngrok.com](https://dashboard.ngrok.com/auth/your-authtoken)
+4. insert your tokem `TOKEN = "insert ngrok token here"`
+
+
+---
 ## SCREENSHOTS
 
 <img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(367).png" height="240px" align="left"></a>
