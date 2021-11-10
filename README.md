@@ -23,7 +23,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/javsubs91/aria2-webui-running-in-jupyterlab)
 
 ---
-## how to to start ariang?
+## how to to start ariaNg?
 1. open folder name `JupyterLab`
 2. double click `AriaNg-WEB-UI.ipynb`
 3. go to  [ngrok.com](https://dashboard.ngrok.com/auth/your-authtoken)
