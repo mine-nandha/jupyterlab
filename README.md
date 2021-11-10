@@ -10,6 +10,12 @@
 * mtn thumbnailer
 * Modified from developeranaz/Jupyter-Notebook-Server-Heroku
 ---
+
+## REQUIREMENTS
+- ability to run terminal
+- ngrok token
+
+---
 ## DEPLOY TO HEROKU
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/javsubs91/aria2-webui-running-in-jupyterlab)
