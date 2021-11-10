@@ -30,7 +30,7 @@
 4. open `Terminal` , `ctrl v` click enter
 
 NOTE: replace `drivename:/folder destination` with your remote cloud drive name in rclone config
-example
+## example
 ![alt text](https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(367).png)
 
 ---
