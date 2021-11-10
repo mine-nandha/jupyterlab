@@ -38,7 +38,7 @@ to notepad
 or you can see it by clicking **remote.txt** in notebook
 4. open **Notebook Terminal** , `ctrl v` click enter
 
-- TRANSFER EXAMPLE
+- **TRANSFER EXAMPLE**
 <img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(367).png" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(367).png" height="100px" />
 
 ---
