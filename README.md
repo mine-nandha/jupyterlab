@@ -1,6 +1,4 @@
 # Jupyter Lab
-<img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(362).png" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(362).png" height="105px" align="left" ></a>
-<img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(368).png" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(368).png" height="105px" align="center" ></a>
 ---
 ## Features
 
@@ -10,7 +8,10 @@
 * **handbrake**
 * **rclone**
 * **mtn thumbnailer**
-* JupyterLab Preview
+JupyterLab Preview
+<img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(362).png" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(362).png" height="105px" align="left" ></a>
+<img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(368).png" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(368).png" height="105px" align="center" ></a>
+
 ---
 
 ## REQUIREMENTS
