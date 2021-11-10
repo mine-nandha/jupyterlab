@@ -13,6 +13,7 @@
 
 ## REQUIREMENTS
 - ability to run terminal
+- heroku account
 - ngrok token
 
 ---
