@@ -17,7 +17,7 @@
 - ngrok token
 
 ---
-## DEPLOY TO HEROKU
+## DEPLOY YOUR OWN
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/javsubs91/aria2-webui-running-in-jupyterlab)
 
