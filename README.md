@@ -19,7 +19,7 @@
 1. open folder name `/JupyterLab`
 2. double click `AriaNg-WEB-UI.ipynb`
 3. go to  [ngrok.com](https://dashboard.ngrok.com/auth/your-authtoken)
-4. insert your tokem `TOKEN = "insert ngrok token here"`
+4. insert your tokem here `TOKEN = "insert ngrok token here"`
 
 
 ---
