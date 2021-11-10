@@ -37,7 +37,7 @@ to notepad
 4. paste `copy path` here `/root/downloads/my-file.mp4`
 5. open **Notebook Terminal** , `ctrl v` click enter
 
-**NOTE:** replace `drivename:/folder destination` with your remote cloud drive name in rclone config
+**NOTE:** replace `drivename:/folder destination` with your remote cloud drive name in rclone config, or you can see it by clicking remote.txt in notebook
 
 - TRANSFER EXAMPLE
 <img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(367).png" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(367).png" height="100px" />
