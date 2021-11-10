@@ -16,7 +16,7 @@
 
 ---
 ## how to to start ariang?
-1. open folder name `/JupyterLab`
+1. open folder name `JupyterLab`
 2. double click `AriaNg-WEB-UI.ipynb`
 3. go to  [ngrok.com](https://dashboard.ngrok.com/auth/your-authtoken)
 4. insert your token here `TOKEN = "insert ngrok token here"`
