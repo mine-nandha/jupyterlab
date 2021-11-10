@@ -45,9 +45,9 @@ NOTE: replace `drivename:/folder destination` with your remote cloud drive name 
 
 ## how to keep my jupyterlab alive?
 **CHOOSE ONE**
-1. [kaffeine](http://kaffeine.herokuapp.com)
-2. [uptimerobot](https://uptimerobot.com)
-3. [pingdom](http://pingdom.com)
+* [kaffeine](http://kaffeine.herokuapp.com)
+* [uptimerobot](https://uptimerobot.com)
+* [pingdom](http://pingdom.com)
 
 ---
 ## PREVIEW
