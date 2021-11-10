@@ -22,6 +22,14 @@
 4. insert your token here `TOKEN = "insert ngrok token here"`
 5. click ▶ (Run the selected cells and advance)
 
+---
+## how to transfer?
+1. open notepad, copy this code to notepad `rclone move /root/downloads/my-file.mp4 drivename:/folder destination  -P`
+2. back to notebook, Right-click on the file you want to copy/move, click `copy path`
+3. paste `copy path` here `/root/downloads/my-file.mp4`
+4. open `Terminal` , `ctrl v` click enter
+
+NOTE: replace `drivename:/folder destination` with your remote cloud drive name in rclone config
 
 ---
 ## SCREENSHOTS
