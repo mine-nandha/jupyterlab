@@ -22,7 +22,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/javsubs91/aria2-webui-on-jupyterlab)
 
 ---
-## how to to start ariaNg?
+## how to start ariaNg?
 1. open folder name `JupyterLab`
 2. double click `AriaNg-WEB-UI.ipynb`
 3. go to  [ngrok.com](https://dashboard.ngrok.com/auth/your-authtoken)
@@ -44,7 +44,7 @@ NOTE: replace `drivename:/folder destination` with your remote cloud drive name 
 ---
 
 ## how to keep my jupyterlab alive?
-**choose one**
+**CHOOSE ONE**
 1. [kaffeine](http://kaffeine.herokuapp.com)
 2. [uptimerobot](https://uptimerobot.com)
 3. [pingdom](http://pingdom.com)
