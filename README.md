@@ -40,11 +40,11 @@
 ---
 ## how to transfers?
 1. open **notepad** in your pc,
-- copy this code `rclone move /root/downloads/my-file.mp4 drivename:/folder destination  -P` then paste into notepad
+- copy this code `rclone move /root/downloads/my-file.mp4 drivename:/folder destination  -P` then paste it into notepad
 2. in your **notebook**,
 - Right-click on the file or folder you want to transfer, click **Copy Path**, then paste at `/root/downloads/my-file.mp4`
 3. replace `drivename:/folder destination` w your rclone remote name, 
-- you can see it a remote name by clicking **remote.txt** in Notebook or rclone.conf in your PC
+- you can see a remote name by clicking **remote.txt** in Notebook or rclone.conf in your PC
 4. open **Notebook Terminal** , `ctrl v` click enter
 
 - **TRANSFER EXAMPLE**
