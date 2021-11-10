@@ -51,7 +51,7 @@ NOTE: replace `drivename:/folder destination` with your remote cloud drive name 
 * [pingdom](http://pingdom.com)
 
 ---
-## PREVIEW
+## JUPYTERLAB PREVIEW
 <img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(362).png" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(362).png" height="105px" align="left" ></a>
 <img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(368).png" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(368).png" height="105px" align="left" ></a>
 <img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(366).png" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(366).png" height="105px" align="center"></a>
