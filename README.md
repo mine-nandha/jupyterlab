@@ -41,6 +41,12 @@ NOTE: replace `drivename:/folder destination` with your remote cloud drive name 
 - TRANSFER EXAMPLE
 <img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(367).png" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(367).png" height="144px" />
 
+## how to keep my jupyterlab alive?
+**choose one**
+1. [kaffeine](http://kaffeine.herokuapp.com)
+2. [uptimerobot](https://uptimerobot.com)
+3. [pingdom](http://pingdom.com)
+
 ---
 ## PREVIEW
 <img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(362).png" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-runing-in-jupyterlab-server-heroku/main/preview/Screenshot%20(362).png" height="200px" />
