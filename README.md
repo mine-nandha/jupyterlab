@@ -44,7 +44,7 @@ NOTE: replace `drivename:/folder destination` with your remote cloud drive name 
 ---
 
 ## how to keep my jupyterlab still alive?
-**CHOOSE ONE**
+**Choose One**
 * [newrelic](https://elements.heroku.com/addons/newrelic)
 * [kaffeine](http://kaffeine.herokuapp.com)
 * [uptimerobot](https://uptimerobot.com)
