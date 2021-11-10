@@ -2,12 +2,12 @@
 
 ## Features
 
-* Running in Ubuntu 18.04
-* Aria2 Web-UI/AriaNg 
-* ffmpeg 
-* handbrake 
-* rclone
-* mtn thumbnailer
+* **Running in Ubuntu 18.04**
+* **Aria2 Web-UI/AriaNg**
+* **ffmpeg**
+* **handbrake**
+* **rclone**
+* **mtn thumbnailer**
 ---
 
 ## REQUIREMENTS
