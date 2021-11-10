@@ -31,10 +31,11 @@
 
 ---
 ## how to transfer?
-1. open **notepad**, copy this code `rclone move /root/downloads/my-file.mp4 drivename:/folder destination  -P`  to notepad
-2. back to **notebook**, Right-click on the file you want to transfer, click `copy path`
-3. paste `copy path` here `/root/downloads/my-file.mp4`
-4. open **Notebook Terminal** , `ctrl v` click enter
+1. open **notepad**, copy this code `rclone move /root/downloads/my-file.mp4 drivename:/folder destination  -P`  
+to notepad
+3. back to **notebook**, Right-click on the file you want to transfer, click `copy path`
+4. paste `copy path` here `/root/downloads/my-file.mp4`
+5. open **Notebook Terminal** , `ctrl v` click enter
 
 **NOTE:** replace `drivename:/folder destination` with your remote cloud drive name in rclone config
 
