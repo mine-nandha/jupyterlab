@@ -2,7 +2,6 @@ FROM ubuntu:18.04
 EXPOSE 8080
 
 ENV DEBIAN_FRONTEND=noninteractive
-
 RUN apt-get update -y
 RUN apt install -y sudo
 RUN sudo apt install -y python3-pip
