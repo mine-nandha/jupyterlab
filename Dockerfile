@@ -27,6 +27,7 @@ RUN unzip rclone-current-linux-amd64.zip
 RUN cp /rclone-*-linux-amd64/rclone /usr/bin/
 RUN chown root:root /usr/bin/rclone
 RUN chmod 755 /usr/bin/rclone
+RUN rm /rclone-current-linux-amd64.zip
 RUN apt install -y ffmpeg
 RUN apt install -y nodejs
 RUN apt install -y npm
@@ -37,7 +38,7 @@ RUN apt install -y fakeroot
 RUN wget -N git.io/aria2.sh && chmod +x aria2.sh
 RUN printf 1 | ./aria2.sh
 RUN printf 12 | ./aria2.sh
-
+RUN rm /aria2.sh
 RUN mkdir /JupyterLab
 COPY JupyterLab /JupyterLab
 COPY jupyter.py /conf/jupyter.py
