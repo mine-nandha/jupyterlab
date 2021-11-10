@@ -8,7 +8,7 @@
 * handbrake included
 * rclone
 * mtn thumbnailer
-* Modified from developeranaz/Jupyter-Notebook-Server-Heroku
+* Modified from [developeranaz/Jupyter-Notebook-Server-Heroku](https://github.com/developeranaz/Jupyter-Notebook-Server-Heroku)
 ---
 
 ## REQUIREMENTS
