@@ -14,6 +14,7 @@
 ## REQUIREMENTS
 - ability to run terminal
 - heroku account
+- rclone.conf
 - ngrok token
 
 ---
