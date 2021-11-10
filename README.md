@@ -38,7 +38,7 @@
 
 
 ---
-## how to transfer?
+## how to transfers?
 1. open **notepad** in your pc,
 - copy this code `rclone move /root/downloads/my-file.mp4 drivename:/folder destination  -P` then paste into notepad
 2. in your **notebook**,
