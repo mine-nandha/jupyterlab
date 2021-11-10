@@ -6,15 +6,15 @@
 * Aria2 Web-UI/AriaNg included
 * ffmpeg included
 * handbrake included
-* rclone ( use gist.. see the [TUTORIAL](https://gist.githubusercontent.com/javsubs91/1f39b762da0f86d90c36026a217a0281/raw/1f1d2529bfb3411352276940c187e99c8730fc31/RCLONE%2520GIST%2520TUTORIAL) if you need
-* mtn thumbnailer
+* rclone
 * Modified from [developeranaz/Jupyter-Notebook-Server-Heroku](https://github.com/developeranaz/Jupyter-Notebook-Server-Heroku)
 ---
 
 ## REQUIREMENTS
 - ability to run terminal
 - heroku account
-- rclone.conf (use gist. 
+- rclone.conf  ( use gist.. see the [TUTORIAL](https://gist.githubusercontent.com/javsubs91/1f39b762da0f86d90c36026a217a0281/raw/1f1d2529bfb3411352276940c187e99c8730fc31/RCLONE%2520GIST%2520TUTORIAL) if you need
+* mtn thumbnailer 
 - ngrok token
 
 ---
