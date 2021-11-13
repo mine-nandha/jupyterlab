@@ -31,6 +31,8 @@ RUN rm /rclone-current-linux-amd64.zip
 RUN apt install -y ffmpeg
 RUN apt install -y nodejs
 RUN apt install -y npm
+RUN apt install -y nodejs-legacy
+RUN sudo npm install -g localtunnel
 RUN apt install -y lxterminal
 RUN apt install -y ca-certificates
 RUN apt install -y fakeroot
