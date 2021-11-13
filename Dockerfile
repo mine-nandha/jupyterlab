@@ -29,11 +29,6 @@ RUN chown root:root /usr/bin/rclone
 RUN chmod 755 /usr/bin/rclone
 RUN rm /rclone-current-linux-amd64.zip
 RUN apt install -y ffmpeg
-RUN curl -sL https://deb.nodesource.com/setup_14.x | sudo bash -
-RUN apt install -y nodejs
-RUN apt install -y gcc g++ make
-RUN apt install -y nodejs-legacy
-RUN sudo npm install -g localtunnel
 RUN apt install -y lxterminal
 RUN apt install -y ca-certificates
 RUN apt install -y fakeroot
