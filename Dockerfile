@@ -12,6 +12,7 @@ RUN apt install -y bash
 RUN apt install -y wget
 RUN apt install -y dpkg
 RUN apt install -y xz-utils
+RUN apt install -y pip
 RUN sudo apt install -y software-properties-common
 RUN sudo add-apt-repository ppa:stebbins/handbrake-releases -y
 RUN sudo apt install -y handbrake-cli handbrake-gtk
