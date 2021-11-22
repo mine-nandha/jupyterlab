@@ -4,6 +4,7 @@
 
 * **Running in Ubuntu 18.04**
 * **Aria2 Web-UI/AriaNg**
+* **noVNC (password: VNC123)**
 * **ffmpeg**
 * **handbrake**
 * **rclone**
