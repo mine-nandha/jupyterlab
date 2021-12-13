@@ -13,5 +13,5 @@
   "website": "",
   "repository": "",
   "stack": "container"
-  "region": "eu"
+  region: "eu"
  }
